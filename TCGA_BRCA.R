@@ -1,3 +1,7 @@
+# help http address
+# https://bioconductor.org/packages/devel/bioc/vignettes/TCGAbiolinks/inst/doc/tcgaBiolinks.html#gdcquery-searching-tcga-open-access-data
+# https://docs.gdc.cancer.gov/Data/Release_Notes/Data_Release_Notes/
+
 #Processing the data from the TCGA using the TCGAbiolinks R package
 #Install teh TCGAbiolinks package
 source("http://bioconductor.org/biocLite.R")
